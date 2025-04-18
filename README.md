@@ -41,7 +41,7 @@ end
 
 **✅ Configure DNS**
 ```
-config system DNS
+config system dns
 ```
 ```
 set primary 8.8.8.8
